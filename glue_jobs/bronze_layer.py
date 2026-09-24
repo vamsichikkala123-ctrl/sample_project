@@ -82,7 +82,7 @@ source_count = df_raw.count()
 print(source_count)
 
 df_raw.show(10, truncate=False)
-
+print("changed logic")
 
 # ============================================================
 # 6. BRONZE TRANSFORMATION
